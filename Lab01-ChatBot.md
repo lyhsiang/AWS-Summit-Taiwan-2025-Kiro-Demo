@@ -206,5 +206,6 @@ MyCoolChatbot/
 - [ ] 可透過 CloudFront URL 存取聊天機器人
 - [ ] 已部署版本中的 ACK 回應正常運作
 
+
 ### ✅ 成功範例
 https://d1anwh1nuk505t.cloudfront.net
