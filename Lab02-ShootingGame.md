@@ -47,12 +47,7 @@
 
 <img width="472" height="360" alt="Screenshot 2025-07-11 at 9 42 17 am" src="https://github.com/user-attachments/assets/ea7ce532-d7bc-4c7e-bf4a-ae1cb1701c49" />
 
-#### 步驟 4: 建立遊戲專案
-1. 在您的電腦上，建立一個名為 `MyShootingGame` 的資料夾
-2. 在 Kiro 中開啟這個專案
-3. 選擇 **"Vibe"** 模式進行開發
-
-#### 步驟 5: 建立基礎射擊遊戲
+#### 步驟 4: 建立基礎射擊遊戲
 在 Kiro 的聊天區域中，輸入以下提示：
 
 ```
@@ -66,7 +61,7 @@ Could you help me to build a web-base shooting game
 - 包含基本的射擊機制和敵人系統
 - 準備部署到 AWS 環境
 
-#### 步驟 6: 改善遊戲控制
+#### 步驟 5: 改善遊戲控制
 當基礎遊戲建立完成後，使用以下提示改善操作體驗：
 
 ```
@@ -80,7 +75,7 @@ Some time the control is hard to target the enemies? Please help me to improve i
   - **滑鼠/觸控控制**: 移動游標/手指移動，點擊/觸碰射擊
 - 增加輔助瞄準功能
 
-#### 步驟 7: 新增敵人血條和遊戲說明
+#### 步驟 6: 新增敵人血條和遊戲說明
 繼續使用以下提示增強遊戲功能：
 
 ```
@@ -92,7 +87,7 @@ Please help me add a health bar on enemies to understand how many time left to t
 - 遊戲操作說明頁面
 - 視覺化的生命值指示器
 
-#### 步驟 8: 實作道具系統
+#### 步驟 7: 實作道具系統
 使用以下提示新增道具機制：
 
 ```
@@ -106,7 +101,7 @@ I would like to add some random dropped items to temporarily power up myself. Su
 - **Shield**: 防護盾保護
 - 臨時性增益效果
 
-#### 步驟 9: 新增 Boss 關卡系統
+#### 步驟 8: 新增 Boss 關卡系統
 使用以下提示實作進階關卡機制：
 
 ```
@@ -118,7 +113,7 @@ In increments of five thousand, I would like to have a boss stage and increase t
 - 逐步增加遊戲難度
 - 特殊的 Boss 戰鬥機制
 
-#### 步驟 10: 部署到 AWS 無伺服器架構
+#### 步驟 9: 部署到 AWS 無伺服器架構
 使用以下提示進行 AWS 部署：
 
 ```
@@ -131,7 +126,7 @@ Please deploy
 - 所有 AWS CLI 命令必須包含 `--no-paginate` 和 `--no-cli-pager` 參數
 - 自動化部署流程
 
-#### 步驟 11: 資源清理
+#### 步驟 10: 資源清理
 完成測試後，使用以下提示清理 AWS 資源：
 
 ```
