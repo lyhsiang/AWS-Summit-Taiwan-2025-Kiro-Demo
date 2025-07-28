@@ -129,7 +129,7 @@ When the score reach specific points, I would like to have a boss stage. Once th
 使用以下提示進行 AWS 部署：
 
 ```
-Pleas help me deploy to my AWS Account with serverless architecture, make sure the architecture following AWS Security best practices.
+Pleas help me deploy to my AWS Account with serverless architecture, make sure the S3 bucket not public read and can only go through Cloudfront.
 
 Please deploy
 ```
