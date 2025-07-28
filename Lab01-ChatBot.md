@@ -196,8 +196,10 @@ MyCoolChatbot/
 記住，Kiro 是一個學習型 AI 助手，清晰和具體的指導將幫助它更好地理解您的需求並提供適當的解決方案。
 
 ---
+
 ** 成功範例 **
-https://d1anwh1nuk505t.cloudfront.net/
+https://d1anwh1nuk505t.cloudfront.net
+
 ---
 
 ### ✅ 成功標準
