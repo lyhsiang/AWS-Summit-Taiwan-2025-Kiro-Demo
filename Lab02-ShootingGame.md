@@ -41,7 +41,7 @@
    - **Spec** - 先規劃，再建構。在開始編碼前建立需求和設計
 
 3. 在這個練習中，選擇 **"Vibe"** 模式
-4. 將模型設定為 **"Claude Sonnet 3.7"**（或最新可用版本）
+4. 將模型設定為 **"Claude Sonnet 4"**（或最新可用版本）
 5. 確保 **Autopilot** 已啟用
 
 
@@ -51,21 +51,22 @@
 在 Kiro 的聊天區域中，輸入以下提示：
 
 ```
-Create a web-base shooting game and deploy to AWS
-
-Could you help me to build a web-base shooting game
+Please help me to build a web-base shooting game.
 ```
 
 **提示說明：**
 - 建立一個基於網頁的射擊遊戲
 - 包含基本的射擊機制和敵人系統
-- 準備部署到 AWS 環境
 
 #### 步驟 5: 改善遊戲控制
 當基礎遊戲建立完成後，使用以下提示改善操作體驗：
 
 ```
-Some time the control is hard to target the enemies? Please help me to improve it.
+Use keyboard to control spaceship is hard to target the enemies. Please help me to add the cursor mode. Also, please follow below rules:
+    -  With cursor mode, please do not add Y axis direction movement, and the bullet on can shoot straight forward.
+    -  Do not add auto-aim function.
+    -  With cursor mode, please add a aim dot to represent cursor position.
+
 ```
 
 **改善重點：**
@@ -87,7 +88,18 @@ Please help me add a health bar on enemies to understand how many time left to t
 - 遊戲操作說明頁面
 - 視覺化的生命值指示器
 
-#### 步驟 7: 實作道具系統
+#### 步驟 7: 新增開始畫面
+繼續使用以下提示增強遊戲功能：
+
+```
+Create a start game page.
+```
+
+**新增功能：**
+- 遊戲起始畫面
+- 選擇初始控制方式
+
+#### 步驟 8: 實作道具系統
 使用以下提示新增道具機制：
 
 ```
@@ -101,15 +113,15 @@ I would like to add some random dropped items to temporarily power up myself. Su
 - **Shield**: 防護盾保護
 - 臨時性增益效果
 
-#### 步驟 8: 新增 Boss 關卡系統
+#### 步驟 9: 新增 Boss 關卡系統
 使用以下提示實作進階關卡機制：
 
 ```
-In increments of five thousand, I would like to have a boss stage and increase the level difficulty
+When the score reach specific points, I would like to have a boss stage. Once the boss is eliminated, return to normal stage to get more points and wait next boss stage.
 ```
 
 **Boss 系統特色：**
-- 每 5000 分出現 Boss 關卡
+- 每 200 分出現 Boss 關卡
 - 逐步增加遊戲難度
 - 特殊的 Boss 戰鬥機制
 
@@ -117,7 +129,7 @@ In increments of five thousand, I would like to have a boss stage and increase t
 使用以下提示進行 AWS 部署：
 
 ```
-Can you help me deploy to my AWS Account with serverless architecture? Please make sure the AWS CLI command you use is with "--no-paginate" and "--no-cli-pager"
+Pleas help me deploy to my AWS Account with serverless architecture, make sure the architecture following AWS Security best practices.
 
 Please deploy
 ```
