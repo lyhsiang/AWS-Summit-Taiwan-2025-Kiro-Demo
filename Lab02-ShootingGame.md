@@ -25,13 +25,13 @@
 ### 🚀 逐步操作指南
 
 #### 步驟 1: 建立專案資料夾
-1. 在您的電腦上，建立一個名為 `MyCoolChatbot` 的資料夾
+1. 在您的電腦上，建立一個名為 `MyShootingGame` 的資料夾
 2. 這將成為您聊天機器人應用程式的專案工作區
 
 #### 步驟 2: 在 Kiro 中開啟專案
 1. 啟動 Kiro IDE
 2. 點擊 **"Open a project"** 按鈕
-3. 選擇剛才建立的 `MyCoolChatbot` 資料夾
+3. 選擇剛才建立的 `MyShootingGame` 資料夾
 4. Kiro 將初始化專案工作區
 
 <img width="472" height="360" alt="Screenshot 2025-07-11 at 9 42 17 am" src="https://github.com/user-attachments/assets/ea7ce532-d7bc-4c7e-bf4a-ae1cb1701c49" />
