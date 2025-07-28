@@ -98,7 +98,8 @@ MyCoolChatbot/
 ### 🎨 Expected Result
 Your chatbot should look similar to this:
 
-![AWS Bedrock Chatbot Result](../resources/images/chatbot-result.png)
+<img width="1451" height="999" alt="image (33)" src="https://github.com/user-attachments/assets/2efe5a5b-1952-49d0-9c5a-bd24a541148c" />
+
 
 **Key Features Implemented:**
 - Dark theme interface matching AWS design patterns
