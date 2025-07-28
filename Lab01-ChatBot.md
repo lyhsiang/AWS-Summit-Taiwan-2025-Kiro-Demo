@@ -197,7 +197,7 @@ MyCoolChatbot/
 
 ---
 
-** 成功範例 **
+**成功範例**
 https://d1anwh1nuk505t.cloudfront.net
 
 ---
