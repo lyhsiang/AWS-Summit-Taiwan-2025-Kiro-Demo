@@ -27,7 +27,8 @@ Build and deploy a chatbot UI that will be hosted on AWS S3 and served through C
 3. Select the newly created `MyCoolChatbot` folder
 4. Kiro will initialize the project workspace
 
-![Kiro Start Screen](../resources/images/kiro-start-screen.png)
+<img width="472" height="360" alt="Screenshot 2025-07-11 at 9 39 34 am" src="https://github.com/user-attachments/assets/9003120b-0a3b-4bda-be49-d9383298b750" />
+
 
 #### Step 3: Access the Let's Build Feature
 1. In Kiro, navigate to the **"Let's build"** page
@@ -39,7 +40,8 @@ Build and deploy a chatbot UI that will be hosted on AWS S3 and served through C
 4. Set the model to **"Claude Sonnet 3.7"** (or the latest available version)
 5. Make sure **Autopilot** is enabled
 
-![Kiro Let's Build Interface](../resources/images/kiro-lets-build.png)
+<img width="472" height="360" alt="Screenshot 2025-07-11 at 9 39 34 am" src="https://github.com/user-attachments/assets/dec866bf-df0d-44b6-86b7-d084b6146030" />
+
 
 #### Step 4: Create the Chatbot UI with AWS Deployment
 In the chat area, enter the following prompt:
