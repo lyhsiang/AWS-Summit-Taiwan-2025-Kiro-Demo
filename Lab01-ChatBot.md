@@ -197,11 +197,6 @@ MyCoolChatbot/
 
 ---
 
-**成功範例**
-https://d1anwh1nuk505t.cloudfront.net
-
----
-
 ### ✅ 成功標準
 當您完成以下項目時，練習即告完成：
 - [ ] 聊天機器人 UI 在本地運行並具有 ACK 回應
@@ -211,3 +206,5 @@ https://d1anwh1nuk505t.cloudfront.net
 - [ ] 可透過 CloudFront URL 存取聊天機器人
 - [ ] 已部署版本中的 ACK 回應正常運作
 
+**成功範例**
+https://d1anwh1nuk505t.cloudfront.net
