@@ -8,15 +8,12 @@
 
 ### 🎯 學習目標
 - 使用 Kiro 建構複雜的互動式網頁遊戲
-- 學習遊戲開發的最佳實踐
 - 實作 AWS 無伺服器架構部署
 - 掌握 AWS 資源管理和清理
 
 ### 📋 前置需求
-- 完成 Lab 1 的練習
 - 具有完整權限的 AWS 帳戶
 - 已配置 AWS CLI
-- 基本的遊戲開發概念
 
 ### 🚀 逐步操作指南
 
@@ -99,7 +96,6 @@ Can you help me deploy to my AWS Account with serverless architecture? Please ma
 
 Please deploy
 ```
-
 **部署要求：**
 - 使用 AWS 無伺服器架構
 - 所有 AWS CLI 命令必須包含 `--no-paginate` 和 `--no-cli-pager` 參數
@@ -113,7 +109,7 @@ Please help me to terminate the related resources from my AWS account.
 ```
 
 ### 📁 預期專案結構
-完成後，您的專案應包含：
+完成後，您的專案可能包含：
 ```
 MyShootingGame/
 ├── src/
@@ -139,28 +135,11 @@ MyShootingGame/
 完成後，您的射擊遊戲應該看起來像這樣：
 
 #### 遊戲主畫面
-![Space Shooter 遊戲畫面](../resources/images/shooting-game-gameplay.png)
+
+<img width="1056" height="770" alt="截圖 2025-07-28 上午9 40 07" src="https://github.com/user-attachments/assets/af875885-5386-44c0-931a-953629b23c13" />
 
 #### 遊戲說明頁面
-![Space Shooter 操作說明](../resources/images/shooting-game-instructions.png)
-
-**核心遊戲機制：**
-- 流暢的射擊控制系統（鍵盤 WASD 或滑鼠控制）
-- 多種類型的敵人（綠色和紅色方塊）
-- 敵人血條顯示
-- 分數和生命值系統
-
-**進階功能：**
-- 隨機道具掉落系統
-- 臨時強化效果（Triple Shot, Rapid Fire, Shield）
-- Boss 關卡（每達到分數里程碑）
-- 難度遞增機制
-
-**使用者介面：**
-- 專業的遊戲操作說明頁面
-- 即時分數和生命值顯示
-- 鍵盤和滑鼠/觸控雙重控制支援
-- 道具效果提示和說明
+<img width="1134" height="832" alt="截圖 2025-07-28 上午9 40 02" src="https://github.com/user-attachments/assets/8d93f33f-ad5f-4a2e-8c6b-51bee6a3f3df" />
 
 ### 🏗️ AWS 架構
 
