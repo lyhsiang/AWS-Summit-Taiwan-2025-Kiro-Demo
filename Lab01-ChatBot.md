@@ -26,8 +26,7 @@
 3. 選擇剛才建立的 `MyCoolChatbot` 資料夾
 4. Kiro 將初始化專案工作區
 
-<img width="472" height="360" alt="Screenshot 2025-07-11 at 9 42 17 am" src="https://github.com/user-attachments/assets/ea7ce532-d7bc-4c7e-bf4a-ae1cb1701c49" />
-
+<img width="472" height="360" alt="Screenshot 2025-07-11 at 9 39 34 am" src="https://github.com/user-attachments/assets/52132c0b-3913-4a09-aac1-cb70cad5129c" />
 
 #### 步驟 3: 存取 Let's Build 功能
 1. 在 Kiro 中，導航到 **"Let's build"** 頁面
@@ -39,7 +38,8 @@
 4. 將模型設定為 **"Claude Sonnet 3.7"**（或最新可用版本）
 5. 確保 **Autopilot** 已啟用
 
-<img width="472" height="360" alt="Screenshot 2025-07-11 at 9 39 34 am" src="https://github.com/user-attachments/assets/52132c0b-3913-4a09-aac1-cb70cad5129c" />
+<img width="472" height="360" alt="Screenshot 2025-07-11 at 9 42 17 am" src="https://github.com/user-attachments/assets/ea7ce532-d7bc-4c7e-bf4a-ae1cb1701c49" />
+
 
 
 #### 步驟 4: 建立聊天機器人 UI 並進行 AWS 部署
