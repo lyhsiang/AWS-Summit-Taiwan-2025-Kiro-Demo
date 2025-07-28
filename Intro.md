@@ -158,11 +158,4 @@ Kiro 提供兩種不同的開發模式，適應不同的開發情境：
 4. **AWS 整合**: 無縫整合 AWS 服務和最佳實踐
 5. **迭代優化**: 根據回饋持續改進和優化
 
-- **現代瀏覽器** - 測試和除錯
-- **VS Code/IDE** - Kiro 整合開發環境
 
-## 📚 延伸資源
-
-- [Kiro 官方文件](https://docs.kiro.ai)
-- [AWS 官方文件](https://docs.aws.amazon.com)
-- [Kiro 社群論壇](https://community.kiro.ai)
