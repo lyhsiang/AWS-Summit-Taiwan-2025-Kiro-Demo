@@ -3,7 +3,6 @@
 > **"An agentic IDE that helps you do your best work."**  
 > — Kiro 官方標語 
 
-**Kiro** 是由 Anthropic 團隊開發的新一代 AI 驅動整合開發環境（IDE），重新定義了軟體開發的方式。它不僅僅是一個程式碼編輯器，而是一個真正理解開發者意圖的智慧代理（Agentic）夥伴。
 
 ### 🏢 **Kiro 的官方定位**
 
